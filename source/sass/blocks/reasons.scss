@@ -1,0 +1,25 @@
+.reasons {
+  padding: 40px 20px;
+  background-color: $reasons-background-color;
+}
+
+.reasons__title {
+  margin: 0 auto;
+  margin-bottom: 8px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 26px;
+  color: $reasons-heading-color;
+}
+
+.reasons__number {
+  display: block;
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+.reasons__text {
+  margin: 0 auto;
+  text-align: center;
+  color: $gray-light;
+}

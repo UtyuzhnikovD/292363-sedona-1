@@ -1,0 +1,25 @@
+.features {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: $features-background-color;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.features__title {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 26px;
+  color: $features-heading-color;
+}
+
+.features__text {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 21px;
+  color: $features-text-color;
+}
